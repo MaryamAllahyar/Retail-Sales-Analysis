@@ -58,4 +58,50 @@ Retail-Sales-Analysis/
 
 ## Dashboard
 
-![Dashboard](images/retail_sales_dashboard.png)
+![Dashboard](images/retail_sales_dashboard.jpg)
+
+## Key Insights
+
+- Consumer customers generated the highest both total sales.
+- Home Office customers achieved the highest profit margin.
+- Standard Class accounted for the highest sales volume.
+- Same Day shipping produced the highest average order value.
+- High discount levels were associated with lower profitability.
+- Technology products generated the strongest profits.
+
+## Recommendations
+
+- Continue investing in high-performing product categories.
+- Review pricing strategies for products with negative profits.
+- Optimize discount policies to improve profitability.
+- Expand marketing efforts toward high-value customer segments.
+- Promote premium shipping options for high-value purchases.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Analytics
+- SQL Query Development
+- Data Visualization
+- Dashboard Design
+- Business Storytelling
+- Git Version Control
+
+## Repository Contents
+
+- Python notebooks
+- SQL queries
+- Power BI dashboard
+- Business analysis
+- Dashboard screenshots
+
+## Contact
+
+Maryam Allahyar
+
+LinkedIn:
+https://www.linkedin.com/in/maryam-allahyar-31a39b3ab/
+
+GitHub:
+(Insert your GitHub profile URL)
