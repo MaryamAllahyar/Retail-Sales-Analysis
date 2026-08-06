@@ -104,4 +104,4 @@ LinkedIn:
 https://www.linkedin.com/in/maryam-allahyar-31a39b3ab/
 
 GitHub:
-(Insert your GitHub profile URL)
+https://github.com/MaryamAllahyar
